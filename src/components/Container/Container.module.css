@@ -1,0 +1,17 @@
+.container {
+    min-height: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-image: url('./coffee-banner.jpg');
+    background-size: contain;
+    background-repeat: repeat;
+    text-align: center;
+}
+
+.title {
+    color: #b94c21;
+    margin: 0;
+    padding-top: 60px;
+}
