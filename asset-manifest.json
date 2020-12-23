@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-hooks-feedback/static/css/main.e7af6c94.chunk.css",
+    "main.js": "/goit-react-hw-04-hooks-feedback/static/js/main.aa33219e.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/main.aa33219e.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.63ed9dfd.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.63ed9dfd.js.map",
+    "static/js/2.b25e9ba9.chunk.js": "/goit-react-hw-04-hooks-feedback/static/js/2.b25e9ba9.chunk.js",
+    "static/js/2.b25e9ba9.chunk.js.map": "/goit-react-hw-04-hooks-feedback/static/js/2.b25e9ba9.chunk.js.map",
+    "index.html": "/goit-react-hw-04-hooks-feedback/index.html",
+    "static/css/main.e7af6c94.chunk.css.map": "/goit-react-hw-04-hooks-feedback/static/css/main.e7af6c94.chunk.css.map",
+    "static/js/2.b25e9ba9.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-feedback/static/js/2.b25e9ba9.chunk.js.LICENSE.txt",
+    "static/media/Container.module.css": "/goit-react-hw-04-hooks-feedback/static/media/coffee-banner.b1c4d768.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63ed9dfd.js",
+    "static/js/2.b25e9ba9.chunk.js",
+    "static/css/main.e7af6c94.chunk.css",
+    "static/js/main.aa33219e.chunk.js"
+  ]
+}
